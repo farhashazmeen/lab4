@@ -15,7 +15,10 @@ LiuID : syesh076
 
 GithubID: farhashazmeen
 
-[![Build Status](https://travis-ci.org/farhashazmeen/lab4.svg?branch=master)](https://travis-ci.org/farhashazmeen/lab4)
+
+https://travis-ci.org/farhashazmeen/lab4.svg?branch=master
+
+
 
 
 
