@@ -13,21 +13,22 @@
 The DESCRIPTION file:
 \packageDESCRIPTION{lab4new}
 \packageIndices{lab4new}
-Package contains of implementations of two algorithm. Dijkstra is for finding the shortest path from the initial node and Euclidean is for calculating greatest common divisior of two numbers.
+This Package contains th implementation of Linear Regression. In statistics the most widely used techniques is linear regression where we study the potential relationship between the variables.The relation between independent variable and dependent variable
 }
-\author{ packageAuthor {Farha}
+\author{ packageAuthor {Syeda Farha Shazmeen}
 
-Maintainer packageMaintainer{Farha}
+Maintainer packageMaintainer{Farhana Chowdhury Tondra}
 }
+
 \references{
-https://en.wikipedia.org/wiki/Euclideanalgorithm.
-https://en.wikipedia.org/wiki/Dijkstra%27salgorithm
+https://en.wikipedia.org/wiki/Linear_regression
+https://www.r-bloggers.com/simple-linear-regression-2/
 }
 
 \keyword{ package }
 \seealso{
-https://en.wikipedia.org/wiki/Greatest_common_divisor.
-https://www.youtube.com/watch?v=gdmfOwyQlcI.
+http://r-pkgs.had.co.nz/vignettes.html.
+http://r-pkgs.had.co.nz/vignettes.html#markdown.
 }
 \examples{
 linreg_mod <- linreg$new(Petal.Length~Sepal.Width+Sepal.Length, data=iris)

@@ -38,8 +38,7 @@ Vignette for the package 4 is written. The Linear Regression class is to be buil
 ## Examples
 
 Here the linear regression is performed between the indepedent variable **Petal.Width** and dependent variable **Speices**. <br /> <br />
-The **coefficients** for  Linear Regression are:
- $Y = X\beta + \epsilon$
+ 
 
 ```{r}
 a<-lm(Petal.Width ~ Species, data=iris)

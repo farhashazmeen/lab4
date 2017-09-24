@@ -6,7 +6,7 @@
 \alias{linreg}
 \title{Title}
 \value{
-a value linreg.
+a value linreg methods.
 }
 \description{
 Title
