@@ -14,10 +14,7 @@ GithubID: tondralok
 LiuID : syesh076
 
 GithubID: farhashazmeen
-
-
-https://travis-ci.org/farhashazmeen/lab4.svg?branch=master
-
+[![Build Status](https://travis-ci.org/farhashazmeen/lab4.svg?branch=master)](https://travis-ci.org/farhashazmeen/lab4)
 
 
 
